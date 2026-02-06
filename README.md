@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @XLYZ-P
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning root
-- 📫 548982795@qq.com
-- 😄 Pronouns: idk
-- ⚡ Fun fact: coding
-- 🧐 And I am a student in China :P
+# AnoLuminescent
 
-<!---
-XLYZ-P/XLYZ-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 匿名发光体。写代码，不署名，有光就行。
+
+---
+
+## 关于
+
+- 写启动器、工具、乱七八糟的东西
+- C# / .NET 为主，偶尔碰别的
+- 开源，但许可证自己造（The Next License）
+- 不混圈，代码说话
+
+---
+
+## 项目
+
+| 项目 | 说明 | 状态 |
+|------|------|------|
+| **NextLauncher** | 下一代 Minecraft 启动器 | 开发中 |
+| ... | 更多待定 | |
+
+---
+
+## 联系
+
+- GitHub Issues（优先）
+- 邮件：待定
+
+---
+
+## 说明
+
+- 所有项目非商业性质，社区驱动
+- 欢迎 Issue 和 PR，但请先看现有代码风格
+- 不保证及时回复，看到会处理
+
+---
+
+> "代码在发光，人不必。"

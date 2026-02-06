@@ -25,7 +25,7 @@
 ## 联系
 
 - GitHub Issues（优先）
-- 邮件：待定
+- 邮件：cccchao.bb@gmail.com    548982795@qq.com
 
 ---
 
